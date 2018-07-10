@@ -1,4 +1,4 @@
-# PUT YOUR PROPOSAL TITLE HERE
+# Some Proposal Title
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-![imgs/intro_img.jpg]
+![Intro Image](imgs/intro_img.jpg)
 
 REPLACE THE INTRO IMAGE WITH ANY IMAGE YOU WISH, OR PUT IMAGES ANYWHERE ELSE,
 IF YOU LIKE.
